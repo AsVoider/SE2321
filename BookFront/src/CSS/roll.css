@@ -1,0 +1,22 @@
+
+
+.ant-carousel {
+    margin: 0 auto 40px !important;
+
+}
+
+
+.ant-carousel .slick-slide img{
+    width: 750px;
+    height:315px;
+    background: #364d79;
+    margin: 0 auto;
+    position: relative;
+}
+
+.ant-carousel{
+    width: 750px;
+    height:315px;
+    margin: 0 auto;
+    text-align: center;
+}
